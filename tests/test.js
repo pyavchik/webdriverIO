@@ -1,4 +1,5 @@
 var assert = require('assert');
+//import assert from 'assert';
 
 describe('webdriver.io page', function() {
     it('should have the right title - the fancy generator way', function () {
