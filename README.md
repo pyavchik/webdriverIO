@@ -3,11 +3,8 @@ WebdriverIO install
 npm init -y
 ```
 ```bash
-npm install -D webdriverio@next
+npm install webdriverio
 ```
 ```bash
-npm install -D wdio-cli@next
-```
-```bash
-./node_modules/.bin/wdio
+./node_modules/.bin/wdio config
 ```
